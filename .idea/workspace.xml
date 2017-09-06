@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="b7f10de2-6a35-4af6-8bb4-ba6d4ffc8a6d" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
+=======
+    <list default="true" id="814c6ed4-6d7e-46ae-9b67-3506671652bf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +25,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+
               <first_editor relative-caret-position="45">
                 <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+=======
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="128" lean-forward="false" selection-start-line="4" selection-start-column="128" selection-end-line="4" selection-end-column="128" />
+
                 <folding />
               </first_editor>
               <second_editor />
@@ -54,6 +67,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="33" />
+    <option name="y" value="84" />
+    <option name="width" value="1280" />
+    <option name="height" value="714" />
+  </component>
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -87,6 +109,13 @@
       </pane>
     </panes>
   </component>
+
+=======
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -195,12 +224,20 @@
       <workItem from="1504336733702" duration="710000" />
       <workItem from="1504631721787" duration="66000" />
       <workItem from="1504674243958" duration="1279000" />
+
       <workItem from="1504679069126" duration="342000" />
+=======
+      <workItem from="1504679069126" duration="138000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
     <option name="totallyTimeSpent" value="2397000" />
+=======
+    <option name="totallyTimeSpent" value="2193000" />
+
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="23" width="1280" height="714" extended-state="6" />
@@ -281,8 +318,13 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+
           <first_editor relative-caret-position="45">
             <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+=======
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="128" lean-forward="false" selection-start-line="4" selection-start-column="128" selection-end-line="4" selection-end-column="128" />
+
             <folding />
           </first_editor>
           <second_editor />
